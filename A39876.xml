@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and both Houses of Parliament being a brief, plain, and true relation of some of the late sad sufferings of the people of God called Quakers for worshipping God and exercising a good conscience towards God and man : by reason whereof 89 have suffered till death, 32 of which dyed before the King came into England and 57 since of which 57, by hard imprisonment and cruel usage, 43 have dyed in this city of London and Southwark since the Act made against meetings / from the people of God called Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39876</idno>
+            <idno type="STC">Wing F1431</idno>
+            <idno type="STC">ESTC R27478</idno>
+            <idno type="EEBO-CITATION">09876900</idno>
+            <idno type="OCLC">ocm 09876900</idno>
+            <idno type="VID">44307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and both Houses of Parliament being a brief, plain, and true relation of some of the late sad sufferings of the people of God called Quakers for worshipping God and exercising a good conscience towards God and man : by reason whereof 89 have suffered till death, 32 of which dyed before the King came into England and 57 since of which 57, by hard imprisonment and cruel usage, 43 have dyed in this city of London and Southwark since the Act made against meetings / from the people of God called Quakers.</title>
+                  <author>Society of Friends.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:44307:1" rendition="simple:additions"/>
+            <head>
+               <hi>FOR THE KING AND Both Houſes of PARLIAMENT, <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing a brief, plain and true Relation of ſome of the late ſad Sufferings of the People of GOD called QUAKERS,</hi> For worſhipping God, and exerciſing a good Conſcience towards God and Man. <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reaſon whereof <hi>89.</hi> have ſuffered till death, <hi>32</hi> of which dyed before the King came into England, and <hi>57</hi> ſince; of which <hi>57,</hi> by hard impriſonment and cruel uſage, <hi>43</hi> have dyed in this City of <hi>London</hi> and <hi>Southwark,</hi> ſince the Act made againſt Meetings.</head>
+            <p>IT is not unknown that we have been a perſecuted and ſuffering People for many years, even by all the Powers that have ruled in theſe Kingdoms; and many hard impriſon<g ref="char:EOLhyphen"/>ments, Scourgings and falſe Judgements we have undergone, and much evil dealing hath been exerciſed towards us, and all this for, and becauſe onely of our Religion and good, Conſcience to God wards, and not for any Rebellion, Sedition, or wrong doing towards them or our Neighbour: For it hath been our onely care how to walk juſtly and innocently in the ſight of God, towards Rulers and people, and have been peaceable towards all; and herein we have deſired to approve our hearts in much integrity and ſincerity, that we might be found blameleſs before the Lord, as himſelf doth bear us witneſs.</p>
+            <div type="part">
+               <head>YORK-SHIRE.</head>
+               <p>
+                  <hi>RObert Barwick</hi> for refuſing to ſwear, was ſent to <hi>York</hi> Caſtle the 24<hi>th</hi> day of the 11<hi>th</hi> Month, 1660. and on the 28<hi>th</hi> day of the firſt Month he dyed a priſoner.</p>
+               <p>
+                  <hi>Peter Caiph</hi> of <hi>Wyton</hi> was taken out of a peaceable Meeting by Conſtables, without any Warrant; and he and ſeveral others for refuſing to ſwear, were ſent to <hi>York</hi> Caſtle the 13<hi>th</hi> of the 12<hi>th</hi> Month,—60. and the ſecond day of the ſecond Month —61. <hi>Peter</hi> dyed a Priſoner.</p>
+               <p>
+                  <hi>Robert Storr</hi> of <hi>Hilſton,</hi> for the ſame cauſe was impriſoned in <hi>York</hi> Caſtle, and on the 25<hi>th</hi> of the firſt Month 1661. he dyed a Priſoner.</p>
+               <p>
+                  <hi>Benjamin Nicholſon</hi> of <hi>Tickell,</hi> and <hi>Abraham Decow</hi> of <hi>Fiſhlock,</hi> being committed upon the ſame account to <hi>York</hi> Caſtle, dyed in Priſon.</p>
+               <p>And there hath dyed nine more in <hi>York</hi> lately, whoſe Names are not as yet ſent up.</p>
+            </div>
+            <div type="part">
+               <head>SURREY.</head>
+               <p>
+                  <hi>Thomas Patchen</hi> being ſick of a Feaver, was taken out of his bed, and drove 25. Miles on foot, and in their cruelty, they over-drove him, in ſo much that it was beyond his natural ſtrength, ſo that in a few days after he was in the <hi>White-Lyon</hi> Priſon, he dyed.</p>
+            </div>
+            <div type="part">
+               <head>HAMP-SHIRE</head>
+               <p>
+                  <hi>William Rutter</hi> on the 17<hi>th</hi> of the 12<hi>th</hi> Month 1661. was taken out of a Meeting, and had to the Main-guard in <hi>Portſmouth,</hi> and from thence to the Mayor, who tendered him the Oath of Allegiance, and for refuſing to ſwear, he was committed to the common Gaol, and falling ſick on the 14<hi>th.</hi> day of the firſt Month, he dyed a priſoner.</p>
+            </div>
+            <div type="part">
+               <head>BEDFORDSHIRE.</head>
+               <p>
+                  <hi>Iohn Ruſh</hi> of <hi>Kempſton Hardwick,</hi> was kept in priſon about a year for not paying Tythes to Prieſt <hi>Wells</hi> of <hi>Wilkhaniſtead,</hi> who kept him in priſon until he dyed, which was the firſt of the 11<hi>th</hi> Month 1661.</p>
+            </div>
+            <div type="part">
+               <head>HUNTINGTON-SHIRE.</head>
+               <p>
+                  <hi>Simon Sanford</hi> and <hi>Francis Lamſtead,</hi> being both committed to the Gaol in <hi>Huntington</hi> for refuſing to ſwear, dyed in priſon, <hi>Francis</hi> the 7<hi>th</hi> day of the firſt Month, and <hi>Simon</hi> the 18<hi>th</hi> of the 12<hi>th</hi> Month 61.</p>
+            </div>
+            <div type="part">
+               <head>WORCESTER-SHIRE.</head>
+               <p>
+                  <hi>Richard Walker</hi> a ſickly weakly man, and hath been ſo long, was (with many more) on the firſt day of the 11<hi>th</hi> Month 1662. taken out of a Meeting in <hi>Eviſham,</hi> by one Major <hi>Wild,</hi> who with the reſt of his party on Horſe-back, forced the poor ſick man with haſt and rigor, to travel on foot part of the way to <hi>Worceſter,</hi> and his ſick body being wearied, not being able to travel ſo faſt as their Horſes, one of the hard-hearted Souldiers took him by the Arm, and drew him violently along; the Mayor alſo rode with his Horſe againſt him, and ſtruck him down with his Horſe brisket, and pluckt out his Piſtol, &amp; threatned to piſtol him; and when they ſaw he could not travel ſo faſt as they in haſte rode their Horſes, then they ſet him on a Horſe, and one of them whipped the Horſe forward, up Hill and down Hill, without pity to his weak condition; and the ſaid <hi>Wild</hi> committed him to the County-Gaol in <hi>Worceſter,</hi> where being far from his tender Friends who nouriſhed him in his weak condition, his ſickneſs encreaſed, and he ſoon dyed.</p>
+            </div>
+            <div type="part">
+               <head>LONDON <hi>and</hi> SOUTHWARK.</head>
+               <p>
+                  <hi>Daniel Abraham</hi> being impriſoned in <hi>Newgate</hi> with about three hundred more Friends, for refuſing to ſwear, in the 12<hi>th</hi> Month 1660. fell ſick and dyed.</p>
+               <p>
+                  <hi>Walter Bellamy</hi> being at the ſame time impriſoned in <hi>Newgate,</hi> and there being one hundred or thereabouts, impriſoned in that room where he was, it is judged that ſo many being together for want of convenient air and lodging, he fell ſick, and in the third Month 1661. he dyed a priſoner.</p>
+               <p>
+                  <hi>Iohn Stanton</hi> having a Wife and ſeveral children, was taken out of a Meeting by rude Souldiers, and committ<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to <hi>Newgate,</hi> and falling ſick, dyed a priſoner the 21. day of the 4<hi>th</hi> Month 1662.</p>
+               <p>
+                  <hi>Thomas <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irby</hi> a young man, a Habberdaſher by trade, being newly out of his time, was taken out of a Meeting of the people of God, and committed to priſon to <hi>Newgate,</hi> where he fell ſick, and on the firſt day of the fifth month 1662. he finiſhed his Teſtimony by death.</p>
+               <p>
+                  <hi>Richard Hubberthorne</hi> a faithful Miniſter of the Lord, being declaring the Truth at the Bull and Mouth Meeting, was taken by ſouldiers, and carryed before <hi>Richard Brown,</hi> who took hold of the brim of his hat, and lugged it upon his face, and committed him to <hi>Newgate,</hi> where he and two more lay in a dark hole; and falling ſick on the 17<hi>th</hi> of the 6<hi>th</hi> month 1662. he laid down his life for the teſtimony of truth.</p>
+               <p>
+                  <hi>Anthony Skillington</hi> being at a meeting of the Lord's people on the 13<hi>th</hi> of the 5<hi>th</hi> month 1662. was by the rude Souldiers taken out of the meeting, and brought before <hi>R. Brown,</hi> who ſent him to priſon with many more; and being innocent, they demanded a free priſon; and ſo the Gaoler put them in the hole, which is the place they put Felons in after they are condemned to dye; and there eleven of them remained two nights, and then were had out, and put in a ſtinking hole amongſt the common Felons; <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Anthony</hi> often complained of the bad ſmell before he fell ſick; and by reaſon of want of air, and ſuch a ſtinking ſmell, he and ſeveral more fell ſick and dyed; and the Jewry that viewed his body, concluded that they did believe his cloſe impriſonment, and the ſtinking ſmell, ſurfeited his body, which was the cauſe of his death, it being in the heat of Summer.</p>
+               <p>
+                  <hi>Iohn Giles</hi> a faithful Miniſter of the Truth, was taken out of a meeting where he was miniſtring the Truth, and committed to <hi>Newgate</hi> by <hi>Richard Brown,</hi> where falling ſick the 29<hi>th</hi> of the ſixth month—62. he laid down his life for the Truths ſake.</p>
+               <p>
+                  <hi>William Watſon</hi> of the Pariſh of <hi>White-Chappel,</hi> was taken from a Meeting, and committed to the common Gaol in <hi>Newgate,</hi> where he fell ſick, and on the 25<hi>th</hi> of the 6<hi>th</hi> month 1662. dyed a priſoner.</p>
+               <p>
+                  <hi>William Eldridge</hi> &amp; <hi>Iohn Shoot,</hi> were both committed to <hi>Newgate</hi> by <hi>Richard Brown,</hi> for meeting to worſhip God; and they fell ſick, and the latter end of the 6<hi>th</hi> month 1662. both dyed, and were car<g ref="char:EOLhyphen"/>ryed from <hi>Newgate</hi> together to be buryed.</p>
+               <p>
+                  <hi>Richard Bradley</hi> for the cauſe aforeſaid was committed to New-priſon, where he fell ſick, and on the firſt day of the 7<hi>th</hi> month 1662. he laid down his life for the Truths ſake.</p>
+               <p>
+                  <hi>Henry Boreman</hi> being committed to <hi>Newgate</hi> for ſelling Friends Books, fell ſick and dyed in <hi>New<g ref="char:EOLhyphen"/>gate</hi> the 17<hi>th</hi> of the 8<hi>th</hi> month 1662. and left a Wife great with child, and three ſmall children beſides.</p>
+               <p>
+                  <hi>Thomas Birkley, Gen. Bromly, Iohn Witlock, William Snowk,</hi> being committed to the White-Lyon priſon for meeting to worſhip God, (with ſeveral others) they fell ſick for want of air and con<g ref="char:EOLhyphen"/>veniences to lodge; and in the 9<hi>th</hi> month 1662. all dyed in the priſon, and gave up their lives for the Truth ſake.</p>
+               <p>
+                  <hi>Iohn Diſon, Iohn Woſtenholm,</hi> and <hi>Richard Page,</hi> being committed to the White-Lyon Priſon for the cauſe aforeſaid, with about eighty more, were kept in three little Rooms, where by reaſon of the cloſeneſs of the place, they fell ſick; and in a ſhort time, being about the 6<hi>th.</hi> of the 10<hi>th</hi> month, they there finiſhed their teſtimony by death.</p>
+               <p>
+                  <hi>Thomas Anſtee, William Hawkes,</hi> being committed to <hi>Newgate</hi> by <hi>R. Brown,</hi> for the cauſe afore<g ref="char:EOLhyphen"/>ſaid, fell ſick, and both laid down their bodies in the priſon for the Truths ſake.</p>
+               <p>
+                  <hi>Thomas Rogers</hi> a young man, was taken alſo out of a meeting of the people aforeſaid, and com<g ref="char:EOLhyphen"/>mitted to the common Gaol, where he fell ſick about the tenth month, and dyed in a ſhort time a priſoner for the Truth of God.</p>
+               <p>
+                  <hi>Mark Cloſe</hi> and <hi>Gabriel Shaller,</hi> being committed by <hi>Richard Brown</hi> for the cauſe aforeſaid, where they fell ſick, and about the latter end of the tenth month 1662. dyed in the Common Gaol in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> for the Truths ſake.</p>
+               <p>
+                  <hi>Iohn Cooper</hi> was by <hi>Richard Brown</hi> committed to the common Gaol in <hi>Newgate</hi> (for the ſame cauſe) where he ſuffered the loſs of his life for the Truths ſake, the 30<hi>th</hi> of the tenth month 1662.</p>
+               <p>
+                  <hi>Thomas Hancler, William Pryor</hi> and <hi>Samuel Petchet,</hi> being committed by <hi>Richard Brown,</hi> for meet<g ref="char:EOLhyphen"/>ing together, about the 6<hi>th</hi> and 7<hi>th</hi> of the 11<hi>th</hi> month, dyed in the common Gaol in <hi>Newgate; William Pryor</hi> leaving a Wife and children behind him, whoſe maintenance did conſiſt on his labour; &amp; <hi>S. Petchet</hi> was a young man, newly come up out of the Countrey about buſineſs.</p>
+               <p>
+                  <hi>Iohn Trowell</hi> being at a meeting at the <hi>Bull</hi> and <hi>Mouth,</hi> the latter end of the ſixth month, was dragged out of the meeting by rude Souldiers, and one of them knockt him down for dead in the Street, and then trampled upon him in the ſtreet, and he lay ſick ten dayes, and then dyed, and his dead body was carryed to the Bull where he received his bruiſes and blows; and the Coroner and Jury viewed his dead body, and many others, who judged him to be murthered, his body being black with bruiſes, and even rotten and like a gelly; it cannot well be expreſſed what grievous blows had fallen on his body; one of the Officers having a Club in one hand about a yard long, which ſeemed to be as much as he could well handle, for bigneſs and weight; with which he laid on about him without mercy, as did the moſt of his party, regarding neither age nor ſex: One Friend was knockt down five times; and the blood lay in the ſtreets, and runned down mens faces and ſhoulders; and one Hanger and one other weapon were both broken by force of blows over mens heads.</p>
+               <p>
+                  <hi>Humphrey Bache,</hi> and <hi>Humphrey Brewſter,</hi> were both committed to <hi>Newgate</hi> for meeting; and by the cloſeneſs of the priſon their bodies were corrupted, ſo that in a ſhort time after they were releaſed, they dyed.</p>
+               <p>
+                  <hi>Humphrey Leaver, Richard Davis, Robert Croſs, Thomas Wingreen, Iohn Ratcliff,</hi> were all impriſoned in the common Gaol in <hi>Newgate,</hi> by <hi>R. Brown,</hi> for meeting to worſhip God, where it is judged through the ſmoke and noiſom ſmells their bodies were corrupted; ſo that ſoon after they were releaſed, they dyed, who we may reckon with the reſt to have ſealed their Teſtimony with the loſs of their lives.</p>
+               <p>
+                  <hi>Edward Burroughs</hi> a faithful Labourer and Miniſter of the Lord, being impriſoned in <hi>Newgate</hi> for miniſtring the Truth to the people at the Bull and Mouth, he remained a Priſoner near three quarters of a year, and notwithſtanding the King ſent an Order under his hand &amp; ſeal to releaſe him yet <hi>Richard Brown</hi> would not releaſe him: The beginning of the twelfth Month the ſaid <hi>Edward Burroughs</hi> fell ſick, and the 14<hi>th</hi> day of the ſame month he finiſhed his teſtimony by death.</p>
+               <p>And there hath ſuffered impriſonments, ſtockings, whippings, loſs of goods, and other abuſes, for keeping a good conſcience towards God and man, before the King came into <hi>England,</hi> 3170. perſons.</p>
+               <p>And there hath ſuffered impriſonments for refuſing to ſwear, and for meeting together, and refuſing to go to publike Worſhip, and for keeping a good Conſcience towards God and man ſince the King came into <hi>England,</hi> 5400. perſons. Notwithſtanding the Kings perſonal endeavours at ſundry times, by Let<g ref="char:EOLhyphen"/>ters, Warrants and Proclamations for their delivery, and for the mitigation of the harſhneſs of his inferior Officers towards them in the caſes above-mentioned.</p>
+               <p>And there dyed by impriſonment and other hard uſage, before the King came in, 32. perſons.</p>
+               <p>And there have dyed by reaſon of impriſonment, and hard and cruel uſage ſince the King came in, 56. perſons.</p>
+               <p>And there remains at this preſent in priſon in <hi>England,</hi> who ſuffer for good conſcience-ſake, Five hundred perſons.</p>
+               <closer>
+                  <signed>
+                     <hi>From the People of God called</hi> QUAKERS.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
